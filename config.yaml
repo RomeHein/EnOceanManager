@@ -1,0 +1,10 @@
+name: "EnOcean Manager"
+description: "Manage your enocean network!"
+version: "1.0.0"
+slug: "enocean_manager"
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
